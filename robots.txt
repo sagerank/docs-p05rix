@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-nhdmvb.date-me.pro/sitemap.xml
